@@ -1,0 +1,15 @@
+# Compiled binaries
+hello
+trim
+efC
+*.exe
+*.out
+
+# Build artifacts
+*.o
+*.a
+
+# Editor files
+.vscode/
+*.swp
+*~
