@@ -5,9 +5,11 @@
 #define EMAIL_SIZE 255
 
 typedef struct {
-    int id;
     char username[USERNAME_SIZE];
     char email[EMAIL_SIZE];
+    int id;
+    
+    
 } User;
 
 int main(void) {
